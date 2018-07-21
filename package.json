@@ -1,0 +1,25 @@
+{
+  "name": "blog-schema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZaBAOW/blog-app-schema.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZaBAOW/blog-app-schema/issues"
+  },
+  "homepage": "https://github.com/ZaBAOW/blog-app-schema#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.4",
+    "morgan": "^1.9.0"
+  }
+}
